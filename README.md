@@ -27,7 +27,8 @@ This project documents the proposed system architecture, component selection, si
 ## Files
 - `report/` – final concept report PDF  
 - `figures/` – diagrams/screenshots used for documentation  
-- `cad/` – CAD files or exported STEP/STL (optional)
+- `cad/` – CAD files or exported STEP/STL
+
 
 ## How to Cite / Use
 If you reference this work, please cite the report in `report/`.
